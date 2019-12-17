@@ -1,0 +1,77 @@
+# If you would like to crawl GitHub contact us at support@github.com.
+# We also provide an extensive API: https://developer.github.com/
+
+User-agent: CCBot
+Disallow: /data
+
+User-agent: coccoc
+Disallow: /data
+
+User-agent: Daumoa
+Disallow: /data
+
+User-agent: dotbot
+Disallow: /data
+
+User-agent: duckduckbot
+Disallow: /data
+
+User-agent: EtaoSpider
+Disallow: /data
+
+User-agent: Googlebot
+Disallow: /data
+
+User-agent: HTTrack
+Disallow: /data
+
+User-agent: ia_archiver
+Disallow: /data
+
+User-agent: IntuitGSACrawler
+Disallow: /data
+
+User-agent: Mail.RU_Bot
+Disallow: /data
+
+User-agent: msnbot
+Disallow: /data
+
+User-agent: Bingbot
+Disallow: /data
+
+User-agent: naverbot
+Disallow: /data
+
+User-agent: red-app-gsa-p-one
+Disallow: /data
+
+User-agent: rogerbot
+Disallow: /data
+
+User-agent: SandDollar
+Disallow: /data
+
+User-agent: seznambot
+Disallow: /data
+
+User-agent: Slurp
+Disallow: /data
+
+User-agent: Swiftbot
+Disallow: /data
+
+User-agent: Telefonica
+Disallow: /data
+
+User-agent: teoma
+Disallow: /data
+
+User-agent: Twitterbot
+Disallow: /data
+
+User-agent: Yandex
+Disallow: /data
+
+User-agent: *
+Disallow: /data
