@@ -1,0 +1,22 @@
+;(function(){$('#menuToggle, .menu-close').on('click',function(){$('#menuToggle').toggleClass('active');$('body').toggleClass('body-push-toleft');$('#theMenu').toggleClass('menu-open');});})(jQuery)
+/*
+     FILE ARCHIVED ON 07:41:38 Jul 13, 2019 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 02:34:48 Apr 03, 2020.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  PetaboxLoader3.resolve: 481.225
+  captures_list: 56.865
+  RedisCDXSource: 2.033
+  exclusion.robots: 0.142
+  CDXLines.iter: 13.784 (3)
+  load_resource: 509.211
+  exclusion.robots.policy: 0.131
+  LoadShardBlock: 37.722 (3)
+  PetaboxLoader3.datanode: 41.596 (4)
+  esindex: 0.021
+*/
